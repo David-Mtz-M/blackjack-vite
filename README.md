@@ -1,4 +1,4 @@
-# BlackJack Vite by David Mtz
+# BlackJack Vite by David Mtz Molina!
 
 Pasos para ejecutar proyecto:
 
